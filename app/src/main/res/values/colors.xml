@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorCyan">#3F51B5</color>
+    <color name="colorPrimaryDark">#1fcfc9</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mainAppBackground">#c9dceb</color>
+    <color name="colorButton">#1fcfc9</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="errorRed">#FF0000</color>
+    <color name="product_catalog_bckgrnd">#fbfbfb</color>
+    <color name="colorBlue">#c9dceb</color>
+</resources>
